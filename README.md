@@ -1,4 +1,7 @@
 # helloworldtest
 my first repo
 
-edit
+master edit
+
+new messgae line
+addfile
